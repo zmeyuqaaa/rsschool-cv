@@ -50,6 +50,8 @@ body{
     border-radius: 70%;
     padding-top: 10px;
     padding-left: 10px;
+    height: 200px;
+    width: 200px;
 }
 
 ul{
