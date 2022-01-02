@@ -238,3 +238,43 @@ ul{
     color: white;
     padding-top: 6px;
 }
+
+.skills__first-stroke{
+    padding-top: 30px
+}
+
+
+.skills__title{
+    background-color: rgba(0, 0, 0, 0.788);
+    border-radius: 5%;
+    text-align: center;
+    width: 250px;
+    height: 30px;
+    color: white;
+    padding-top: 6px;
+}
+
+.skills__list-first{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    line-height: 30px;
+    text-align: center;
+}
+
+.skills__list-second{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    line-height: 30px;
+    text-align: center;
+}
+
+.skills__item{
+    font-weight: 800;
+    font-size: 17px;
+    line-height: 26px;
+    width: 143px;
+    height: 90px;
+    padding-right: 52px;
+}
