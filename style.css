@@ -300,5 +300,10 @@ ul{
 }
 
 .rss-logo{
+    width: 100px;
+    height: 50px;
+}
+
+.rss{
     margin-left: 410px;
 }
