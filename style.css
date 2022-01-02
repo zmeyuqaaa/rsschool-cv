@@ -291,3 +291,12 @@ ul{
     color: white;
     padding-top: 6px;
 }
+
+.footer{
+    background-color: rgba(165, 71, 42, 0.836);
+    
+}
+
+.rss-logo{
+    margin-left: 410px;
+}
