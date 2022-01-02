@@ -315,3 +315,9 @@ ul{
     min-width: 100%;
     min-height: 100%;
 }
+
+.projects-image{
+    padding-top: 10px;
+    width: 250px;
+    padding-left: 20px;
+}
