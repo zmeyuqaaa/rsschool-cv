@@ -194,3 +194,29 @@ ul{
 .art{
     background-image: url(images/art.png);
 }
+
+.right-column{
+    background-color: rgba(255, 255, 255, 0.803);
+    border-radius: 3%;
+    max-width: 480px;
+    padding-left: 10px;
+    margin: 10px 13px 10px 5px;
+}
+
+.about__me{
+    padding-top: 30px;
+}
+
+.about-me__text{
+    padding-top: 42px;
+}
+
+.about-me__title{
+    background-color: rgba(0, 0, 0, 0.788);
+    border-radius: 5%;
+    text-align: center;
+    width: 250px;
+    height: 30px;
+    color: white;
+    padding-top: 6px;
+}
