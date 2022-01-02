@@ -220,3 +220,21 @@ ul{
     color: white;
     padding-top: 6px;
 }
+
+.education{
+    padding-top: 60px
+}
+
+.education__text{
+    padding-top: 30px;
+}
+
+.education__title{
+    background-color: rgba(0, 0, 0, 0.788);
+    border-radius: 5%;
+    text-align: center;
+    width: 250px;
+    height: 30px;
+    color: white;
+    padding-top: 6px;
+}
