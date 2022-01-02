@@ -302,22 +302,6 @@ ul{
     margin: 10px 0px 10px 0px;
 }
 
-.rss-logo{
-    width: 100px;
-    height: 50px;
-    padding-right: 10px;
-}
-
-.year{
-    color: white;
-    padding-top: 15px;
-}
-
-.git__footer{
-    height: 50px;
-    width: 50px;
-    padding-left: 10px;
-}
 
 .bg__video{
     position: fixed;
