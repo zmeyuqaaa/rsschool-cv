@@ -150,3 +150,47 @@ ul{
     padding-top: 15px;
     text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
+
+.hobbies__title{
+    color: white;
+    padding-left: 35px;
+    background-repeat: no-repeat;
+    height: 50px;
+}
+
+.hobbies__title-bg{
+    background-image: url(images/titlebg3.png);
+}
+
+.hobbies__title-content{
+    padding-top: 17px;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
+
+.hobbies__list{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 25px;
+}
+
+.hobbies__item{
+    color: white;
+    padding-top: 50px;
+    font-size: 15px;
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position-x: 50%;
+    background-position-y: 0%;
+}
+
+.music{
+    background-image: url(images/music.png);
+}
+
+.movies{
+    background-image: url(images/movies.png);
+}
+
+.art{
+    background-image: url(images/art.png);
+}
